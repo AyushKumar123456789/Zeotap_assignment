@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# Ayush_Kumar_Lookalike.py
 
 """
 Task 2: Lookalike Model

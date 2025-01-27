@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# Ayush_Kumar_Clustering.py
 
 """
 Task 3: Customer Segmentation (Clustering)

@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-# Ayush_Kumar_EDA.py
+
 
 """
 Task 1: EDA & Business Insights
